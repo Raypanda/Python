@@ -7,3 +7,5 @@ def foo():
 	bar()
 	print(b)
 foo()
+print(要不要认识一下？)
+print(说实话！)
